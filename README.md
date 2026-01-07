@@ -1,13 +1,19 @@
 Тестовое задание DevOps
+
 Что это
 Веб-приложение, которое говорит "Hello from Effective Mobile!" через Nginx.
 
 Как запустить
 bash
+
 # 1. Установите Docker и Docker Compose
+
 # 2. Клонируйте проект
+
 # 3. Выполните:
+
 docker-compose up -d
+
 Как проверить
 bash
 curl http://localhost:80/
